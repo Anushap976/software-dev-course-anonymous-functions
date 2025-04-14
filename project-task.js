@@ -61,8 +61,6 @@ const todos = [
   3. Change the `completed` property to `true` for every task.
   */
   
-  //let completeAllTask = todos.map((task) => )
-
     // const completeAllTasks = todos.map(function(todo) {
     //   return {
     //     task: todo.task,
